@@ -7,6 +7,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import SocialLogin from '../../Component/SocialLogin';
 import { updateProfile } from 'firebase/auth';
 import Spinner from '../../Component/Spinner';
+import './signup.css'
 
 
 const Signup = () => {
@@ -118,6 +119,7 @@ const Signup = () => {
         <button type="submit" className="btn btn-primary w-100">Sign Up </button>
       </form>
       </div>
+      <div className='d-flex justify-content-center align-items-center'><hr className='me-2' />or <hr className='ms-2' /></div>
       <div className='d-flex justify-content-center'><SocialLogin></SocialLogin></div>
     </div>
 
