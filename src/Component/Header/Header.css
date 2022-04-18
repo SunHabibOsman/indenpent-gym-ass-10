@@ -1,0 +1,16 @@
+.header-bar {
+  display: flex;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.header-text {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.header-men {
+  display: flex;
+  justify-content: space-between;
+}

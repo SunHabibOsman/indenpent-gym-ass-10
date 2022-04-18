@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "service_name": "decline dumbbell exercise bench",
+    "discription": "decline dumbbell exercise bench i got from chaina .this is real product",
+    "image": "services1.png",
+    "review": "5/5",
+    "price": 230
+  },
+  {
+    "id": 2,
+    "service_name": "Mini Stepper with Resistance Bands",
+    "discription": "Mini Stepper with Resistance Bands i got from chaina .this is real product",
+    "image": "services2.jpg",
+    "review": "5/5",
+    "price": 350
+  },
+  {
+    "id": 3,
+    "service_name": "Mini Stepper/ Pedal Stepper",
+    "discription": "Mini Stepper/ Pedal Stepper i got from chaina .this is real product",
+    "image": "services3.jpg",
+    "review": "5/5",
+    "price": 300
+  }
+]
