@@ -104,10 +104,10 @@ const Signup = () => {
         </div>
         <div className="mb-3">
           <label for="exampleInputPassword1" className="form-label">Password</label>
-          <input type="password" onChange={handlePass} className="form-control" id="exampleInputPassword1" required />
+          <input type="password" onChange={handlePass} className="form-control" id="exampleInputPassword1" required placeholder='Enter Your Password' />
           <div className='mt-3'>
             <label for="exampleInputPassword1" className="form-label">Confirm Password</label>
-            <input type="password" onChange={handleconfirmPass} className="form-control" id="exampleInputPassword1" required />
+            <input type="password" onChange={handleconfirmPass} className="form-control" id="exampleInputPassword1" required placeholder='Enter your Confirm Password' />
           </div>
         </div>
 
