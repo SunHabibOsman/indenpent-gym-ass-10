@@ -4,3 +4,10 @@
   box-shadow: 28px 28px 66px #a8a8a8,
     -28px -28px 66px #ffffff;
 }
+
+hr {
+  color: rgb(0, 0, 0);
+  width: 15%;
+  border: 1px solid black;
+
+}

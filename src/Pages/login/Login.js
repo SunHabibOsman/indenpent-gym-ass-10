@@ -106,6 +106,7 @@ const Login = () => {
         <p className='mt-2'> New in Gym BD ?<Link to={'/signup'}> Register Here Now</Link></p>
         <p onClick={forgetpass} style={{ cursor: 'pointer' }} className='text-primary'>Forget Password?</p>
       </form></div>
+      <div className='d-flex justify-content-center align-items-center'><hr className='me-2' />or <hr className='ms-2' /></div>
       <div className='d-flex justify-content-center'>
         <SocialLogin></SocialLogin></div>
     </div>
