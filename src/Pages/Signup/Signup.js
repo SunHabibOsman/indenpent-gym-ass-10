@@ -96,7 +96,7 @@ const Signup = () => {
         <h3 className='fw-bold text-primary' >Sign Up Now </h3>
         <div className="mb-3">
           <label for="name" className="form-label">Full Name</label>
-          <input type="text" onChange={handleName} className="form-control" id="name" required /></div>
+          <input type="text" onChange={handleName} className="form-control" id="name" required placeholder='Enter Your Name' /></div>
         <div className="mb-3">
           <label for="exampleInputEmail1" className="form-label">Email address</label>
           <input type="email" onChange={handleEmail} className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required />
