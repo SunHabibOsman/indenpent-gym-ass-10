@@ -67,7 +67,7 @@ const Home = () => {
         <h1 className='fw-bold mt-4'>Best GyM Trainer You Ever Seen </h1>
         <p>Just Believe For Your Gaining</p>
         <div className='mt-5 d-flex justify-content-center align-item-center'>
-          <img className='img-fluid w-75' src="sportsbd (8).jpg" alt="" />
+          <img className='img-fluid w-75 image' src="sportsbd (8).jpg" alt="" />
           <div className=' ms-5'><h1 className='f1-bold mt-3 '>Get Best Trainer in BD</h1>
             <p>I am training more then 5 years .I have great knowledge about training .I trained lot of people in BD .Our location in bd and we are trying get best result please contact us </p>
           </div>
