@@ -103,7 +103,7 @@ const Login = () => {
           error && <p className='text-danger '>{error}</p>}
         <ToastContainer></ToastContainer>
         <button type="submit" className="btn btn-primary w-100">Submit</button>
-        <p className='mt-2'> New in Gym BD ?<Link to={'/signup'}> Register Here Now</Link></p>
+        <p className='mt-2'> New in Gym BD ?<Link to={'/signup'}> Register Here</Link></p>
         <p onClick={forgetpass} style={{ cursor: 'pointer' }} className='text-primary'>Forget Password?</p>
       </form></div>
       <div className='d-flex justify-content-center align-items-center'><hr className='me-2' />or <hr className='ms-2' /></div>
